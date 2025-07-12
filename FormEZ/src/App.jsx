@@ -191,7 +191,7 @@ function App() {
                                 checked={subjects.english}
                                 onChange={() => handleSubjectChange("english")}
                             />
-                            English
+                            Chemistry
                         </label>
                         <label>
                             <input
