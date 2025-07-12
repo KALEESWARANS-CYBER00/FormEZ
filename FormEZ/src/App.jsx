@@ -96,8 +96,8 @@ function App() {
             <div className="splash-screen">
                 <div className="splash-content">
                     <h1>🚀 KALEESWARAN S</h1>
-                    <p>Cybersecurity Student | Ethical Hacker | Full Stack Dev</p>
-                    <p>🔐 Python • Java • C • React • Spring Boot</p>
+                    <p>Cybersecurity Student | Full Stack Dev</p>
+                    <p>🔐 Python • Java • C • React</p>
                     <button onClick={() => setShowSplash(false)}>Enter App</button>
                 </div>
             </div>
